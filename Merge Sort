@@ -1,0 +1,13 @@
+(https://www.youtube.com/watch?v=nCNfu_zNhyI)
+From 2 sorted arrays create 1 sorted array
+
+Using pointers shift the index while comparing between index values of the 2 sorted arrays
+
+(By using divide and conquer we sort an array easily: THink like we have an unsorted array first. then divide them by 2. then keep dividing them till they are single element array. They we will start merging until get the full sorted single array)
+
+Time complexity O(nlogn).
+Merge sort is really important. Also, python sort function uses this merge sort + insertion sort. Also time efficient.
+Not optimal in space complexity since O(n).
+
+Showed the code implementation of merge of two sorted lists and sorting an unsorted array.
+Keeping the length of the array in mind, need to iterate using pointers.
