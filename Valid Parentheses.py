@@ -6,6 +6,7 @@ class Solution:
         closeToOpen = {")":"(","}":"{","]":"["}
         
         for c in s:
+            # Check if c is closing parenthesis
             if c in closeToOpen:
                 # stack[-1] is the last added element of the stack
                 if stack and stack[-1] == closeToOpen[c]:
