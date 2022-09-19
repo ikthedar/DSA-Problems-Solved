@@ -1,4 +1,4 @@
 # DSA-Problems-Solved
 Problems outside of Blind spectrum
 
-September 15th to September 19th: Arrays, LinkedList, Stack, Queue
+September 15th to September 19th: Arrays, Node, LinkedList, Stack, Queue, D-Queue, Merge Sort, 
