@@ -6,3 +6,5 @@ September 15th to September 19th: Arrays, Node, LinkedList, Stack, Queue, D-Queu
 Break on September 20th
 
 Will start again with Hashmap tomorrow
+
+OK
