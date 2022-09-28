@@ -8,3 +8,6 @@ Break on September 20th
 Till September 23rd: HashMap, Tree, Binary Tree, Binary Search Tree, Two-Pointer 
 
 Till Sept 28th: Sliding Window, Binary Search, Matrix
+
+Done with almost all Important Data structures > Need to start the Top 6 interview concept questions 
+
