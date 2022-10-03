@@ -19,3 +19,4 @@ Started Recursion > Also learning about Stack better
 -- Can start Recursion problems now
 
 On october 3: Wrote down Call stack notes
+-- Will do the problems now
