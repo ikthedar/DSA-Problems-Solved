@@ -17,3 +17,5 @@ Started Recursion > Also learning about Stack better
 
 > Oct 2: Learned about Call stack, Stack unwinding
 -- Can start Recursion problems now
+
+On october 3: Wrote down Call stack notes
