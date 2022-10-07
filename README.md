@@ -23,5 +23,6 @@ On october 3: Wrote down Call stack notes
 
 Oct 4: Break for a day
 Will start working on the Recursion problems tomorrow must
+Oct 5: Started Recursion problems
 
 Oct 7: Break for one day
