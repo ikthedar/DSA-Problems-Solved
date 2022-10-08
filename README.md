@@ -26,4 +26,4 @@ Will start working on the Recursion problems tomorrow must
 Oct 5: Started Recursion problems
 
 Oct 7: Break for one day
-Oct 8: Wedding break
+Oct 8: Wedding break for 1 day
