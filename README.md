@@ -27,3 +27,6 @@ Oct 5: Started Recursion problems
 
 Oct 7: Break for one day
 Oct 8: Wedding break for 1 day
+
+Oct 13: Started Graph problems 
+
