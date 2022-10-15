@@ -30,3 +30,4 @@ Oct 8: Wedding break for 1 day
 
 Oct 13: Started Graph problems with "Number of Islands"
 
+Oct 14: Break for Dhaka travel
