@@ -31,4 +31,4 @@ Oct 8: Wedding break for 1 day
 Oct 13: Started Graph problems with "Number of Islands"
 
 Oct 14: Break today for Dhaka travel
-15: 
+15: Recharged
