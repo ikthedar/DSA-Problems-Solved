@@ -32,3 +32,6 @@ Oct 13: Started Graph problems with "Number of Islands"
 
 Oct 14: Break today for Dhaka travel
 15: Recharged
+16: Dead tired
+17: Sad/ Depressed
+18: Feeling energetic
