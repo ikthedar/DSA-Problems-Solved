@@ -1,6 +1,7 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-
+        ROWS, COLS = len(grid), len(grid[0]) # as usual, always get the dimension of the grpahs for these type of problems
+        visit = set() 
         
         def dfs(r, c):
             if (r < 0 or r == ROWS or c < 0 or c == COLS
