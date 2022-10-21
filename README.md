@@ -36,3 +36,4 @@ Oct 14: Break today for Dhaka travel
 17: Sad/ Depressed
 18: Feeling energetic; will start tomorrow with Graph problems
 19: Revised binary search, two pointers, sliding window problems (need to do this gap learning constantly week by week basis)
+21: Break
