@@ -31,9 +31,9 @@ class Solution:
         while q:
             for i in range(len(q)):
                 r, c = q.popleft()
-                rooms[r][c] = dist
+                rooms[r][c] = dist # no need to return anything since we are just modifying the rooms to array in place
                 addRooms(r + 1, c)
                 addRooms(r - 1, c)
                 addRooms(r, c + 1)
                 addRooms(r, c - 1)
-            dist += 1
+            dist += 1 # no need to return anything since we are just modifying the rooms to array in place (Check the samce comment code above)
