@@ -41,3 +41,6 @@ Oct 14: Break today for Dhaka travel
 29 Saturday: Break
 30 Sunday: Break
 31 Monday: Online Django Coding Test
+
+Will start again next week
+
